@@ -26,7 +26,10 @@ A modern and responsive landing page for a fictional dog dating application, des
 
 ## 📱 Project Preview
 
-https://github.com/user-attachments/assets/7ed89260-9dc3-46be-8832-6f3e12176302
+
+https://github.com/user-attachments/assets/2a7b041b-3064-4b81-9ad9-36bd085e01f0
+
+
 
 ## 🎯 Key Sections
 - Hero Section with CTA
