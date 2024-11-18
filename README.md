@@ -21,8 +21,8 @@ A modern and responsive landing page for a fictional dog dating application, des
 - Bootstrap-powered components
 
 ## 🔗 Project Links
-- 🚀 **Live Demo**: [View TinDog](https://nishuldhakar.github.io/TinDog/)
-- 💻 **Repository**: [TinDog Project](https://github.com/nishuldhakar/TinDog)
+- 🚀 **Live Demo**: [View TinDog](https://nishuldhakar.github.io/Tindog/)
+- 💻 **Repository**: [TinDog Project](https://github.com/nishuldhakar/Tindog)
 
 ## 📱 Project Preview
 
